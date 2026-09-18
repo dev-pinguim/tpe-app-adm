@@ -1,0 +1,32 @@
+{
+  "name": "TPE | Suzano",
+  "short_name": "TPE Suzano",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#128C7E",
+  "background_color": "#f0f2f5",
+  "icons": [
+    {
+      "src": "favcon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
